@@ -25,3 +25,16 @@ E:\Usuários\THIAGO\Documents\Frontend\Akad - DIO\minimal-api\obj\Debug\net9.0\r
 E:\Usuários\THIAGO\Documents\Frontend\Akad - DIO\minimal-api\obj\Debug\net9.0\minimal-api.pdb
 E:\Usuários\THIAGO\Documents\Frontend\Akad - DIO\minimal-api\obj\Debug\net9.0\minimal-api.genruntimeconfig.cache
 E:\Usuários\THIAGO\Documents\Frontend\Akad - DIO\minimal-api\obj\Debug\net9.0\ref\minimal-api.dll
+E:\Usuários\THIAGO\Documents\Frontend\Akad - DIO\minimal-api\bin\Debug\net9.0\Humanizer.dll
+E:\Usuários\THIAGO\Documents\Frontend\Akad - DIO\minimal-api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Usuários\THIAGO\Documents\Frontend\Akad - DIO\minimal-api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Usuários\THIAGO\Documents\Frontend\Akad - DIO\minimal-api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Usuários\THIAGO\Documents\Frontend\Akad - DIO\minimal-api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Usuários\THIAGO\Documents\Frontend\Akad - DIO\minimal-api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Usuários\THIAGO\Documents\Frontend\Akad - DIO\minimal-api\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Usuários\THIAGO\Documents\Frontend\Akad - DIO\minimal-api\bin\Debug\net9.0\MySqlConnector.dll
+E:\Usuários\THIAGO\Documents\Frontend\Akad - DIO\minimal-api\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Usuários\THIAGO\Documents\Frontend\Akad - DIO\minimal-api\bin\Debug\net9.0\System.CodeDom.dll
+E:\Usuários\THIAGO\Documents\Frontend\Akad - DIO\minimal-api\obj\Debug\net9.0\minimal-api.csproj.AssemblyReference.cache
+E:\Usuários\THIAGO\Documents\Frontend\Akad - DIO\minimal-api\obj\Debug\net9.0\minimal-api.sourcelink.json
+E:\Usuários\THIAGO\Documents\Frontend\Akad - DIO\minimal-api\obj\Debug\net9.0\minimal-.F3613C90.Up2Date
